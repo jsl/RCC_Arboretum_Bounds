@@ -9,8 +9,10 @@ This project should be rendered using EPSG:2262 NAD83 / New York West (ftUS).
 ## Files
 
 * Legal descriptions
-** DPW ARBORETUM AREA 1 R2.pdf - main area of parkland NW of Village Lane measuring 9.17 acres.
-** DPW ARBORETUM AREA 2.pdf - legal description of parkland area 2 SE of Village Lane, measuring 0.28 acres.
+
+	* DPW ARBORETUM AREA 1 R2.pdf - main area of parkland NW of Village Lane measuring 9.17 acres.
+	* DPW ARBORETUM AREA 2.pdf - legal description of parkland area 2 SE of Village Lane, measuring 0.28 acres.
+
 * Azimuth / distance descriptions (for import into QGIS Azimuth/Distance plugin)
-** Parkland Area 1 Azimuth Distance.txt
-** Parkland Area 2 Azimuth Distance.txt
+	* Parkland Area 1 Azimuth Distance.txt
+	* Parkland Area 2 Azimuth Distance.txt
