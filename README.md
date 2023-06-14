@@ -16,3 +16,7 @@ This project should be rendered using EPSG:2262 NAD83 / New York West (ftUS).
 * Azimuth / distance descriptions (for import into QGIS Azimuth/Distance plugin)
 	* Parkland Area 1 Azimuth Distance.txt
 	* Parkland Area 2 Azimuth Distance.txt
+
+## Maps
+
+Maps in shapefile, PDF and PNG under maps/.
